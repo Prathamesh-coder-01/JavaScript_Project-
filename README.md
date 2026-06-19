@@ -14,11 +14,11 @@ The objective of this challenge is to:
 * Develop problem-solving skills.
 * Create a strong portfolio through consistent coding.
 ---
-**Technologies Used:**
+**Technologies Used to make the Projects :**
 
 * HTML
 * CSS
-* JavaScript
+* JavaScript (ES6+)
 
 ---
 ### ✅ 01. To-Do App
@@ -47,19 +47,6 @@ A basic calculator that performs arithmetic operations.
 * 🧹 Clear functionality
 * 🔢 Interactive button-based input
 
-**Technologies Used:**
-
-* HTML
-* CSS
-* JavaScript
-
----
-
-## 🛠️ Tech Stack
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
 ---
 
 ## 🎯 Progress
