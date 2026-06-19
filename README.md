@@ -4,6 +4,23 @@ Welcome to my **100 JavaScript Projects Challenge** repository!
 
 In this challenge, I am building **100 projects using HTML, CSS, and JavaScript** to improve my web development skills and strengthen my understanding of JavaScript concepts through hands-on practice.
 
+## 📌 Goal
+
+The objective of this challenge is to:
+
+* Improve JavaScript fundamentals.
+* Practice DOM manipulation.
+* Build real-world mini projects.
+* Develop problem-solving skills.
+* Create a strong portfolio through consistent coding.
+---
+**Technologies Used:**
+
+* HTML
+* CSS
+* JavaScript
+
+---
 ### ✅ 01. To-Do App
 
 A simple and responsive To-Do application to manage daily tasks.
@@ -14,12 +31,6 @@ A simple and responsive To-Do application to manage daily tasks.
 * ✅ Mark tasks as completed
 * ❌ Delete tasks
 * 📝 Easy-to-use interface
-
-**Technologies Used:**
-
-* HTML
-* CSS
-* JavaScript
 
 ---
 
@@ -57,15 +68,5 @@ A basic calculator that performs arithmetic operations.
 * ⏳ Remaining: **98 / 100 Projects**
 
 ---
-
-## 📌 Goal
-
-The objective of this challenge is to:
-
-* Improve JavaScript fundamentals.
-* Practice DOM manipulation.
-* Build real-world mini projects.
-* Develop problem-solving skills.
-* Create a strong portfolio through consistent coding.
 
 ⭐ Thank you for checking out this repository!
