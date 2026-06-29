@@ -48,11 +48,16 @@ A basic calculator that performs arithmetic operations.
 * 🔢 Interactive button-based input
 
 ---
+### ✅ 03. Clock App
+Developed a Simple Clock Application using HTML, CSS, and JavaScript that dynamically displays the current time. 
+The clock updates every second using JavaScript, demonstrating DOM manipulation and timing functions.
+
+---
 
 ## 🎯 Progress
 
-* ✅ Completed: **2 / 100 Projects**
-* ⏳ Remaining: **98 / 100 Projects**
+* ✅ Completed: **3 / 100 Projects**
+* ⏳ Remaining: **97 / 100 Projects**
 
 ---
 
