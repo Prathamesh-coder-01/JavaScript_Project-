@@ -23,29 +23,17 @@ The objective of this challenge is to:
 ---
 ### ✅ 01. To-Do App
 
-A simple and responsive To-Do application to manage daily tasks.
-
-#### Features
-
-* ➕ Add new tasks
-* ✅ Mark tasks as completed
-* ❌ Delete tasks
-* 📝 Easy-to-use interface
+Developed a To-Do List Application using HTML, CSS, and JavaScript to help users organize daily tasks. 
+The project demonstrates DOM manipulation, event handling, and dynamic task management.
 
 ---
 
 ### ✅ 02. Calculator
 
-A basic calculator that performs arithmetic operations.
+A basic calculator that performs arithmetic operations. Built a Calculator Application using HTML, CSS, and JavaScript.
+Implemented arithmetic operations, button click events, and dynamic display updates to create an interactive and responsive calculator.
 
-#### Features
 
-* ➕ Addition
-* ➖ Subtraction
-* ✖️ Multiplication
-* ➗ Division
-* 🧹 Clear functionality
-* 🔢 Interactive button-based input
 
 ---
 ### ✅ 03. Clock App
